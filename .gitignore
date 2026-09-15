@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Database
+backend/database/*.db
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Salesforce
+.sf/
